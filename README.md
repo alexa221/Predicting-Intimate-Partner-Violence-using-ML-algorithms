@@ -51,8 +51,8 @@ First and foremost, I express my gratitude to the almighty God and the Virgin Ma
 Install Anaconda 2020 for Python3 and open jupiter Notebook
 
 ```bash
-•   Install mlxtend for feature selection: ---pip install mlxtend 
-•   Install xgboost for model building: ---pip install xgboost
+• Install mlxtend for feature selection: ---pip install mlxtend 
+• Install xgboost for model building: ---pip install xgboost
 •	Install catboost for model building: ---pip install catboost
 •	Install imblearn for class balancing: ---pip install imblearn
 
