@@ -24,7 +24,7 @@ For constructing the proposed model, experiments were conducted with a total of 
 
 - [@Alexander Takele Mengesha](https://www.github.com/alexa221)
   
-- [@Tesfamariam Mulugeta Abuhay](https://www.github.com/alexa221)
+- [@Tesfamariam Mulugeta Abuhay](https://www.github.com/tesfamariam.m.abuhay@gmail.com)
   
 
 # Hi, I'm Alexander Takele Mengesha! 👋
@@ -33,6 +33,7 @@ For constructing the proposed model, experiments were conducted with a total of 
 ## Author
 
 - [Github](https://www.github.com/alexa221)
+-[Github](https://www.github.com/tesfamariam.m.abuhay@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/alextakele/)
 
   
@@ -51,10 +52,10 @@ First and foremost, I express my gratitude to the almighty God and the Virgin Ma
 Install Anaconda 2020 for Python3 and open jupiter Notebook
 
 ```bash
-• Install mlxtend for feature selection: ---pip install mlxtend 
-• Install xgboost for model building: ---pip install xgboost
-• Install catboost for model building: ---pip install catboost
-• Install imblearn for class balancing: ---pip install imblearn
+•   Install mlxtend for feature selection: ---pip install mlxtend 
+•   Install xgboost for model building: ---pip install xgboost
+•	Install catboost for model building: ---pip install catboost
+•	Install imblearn for class balancing: ---pip install imblearn
 
 ```
     
