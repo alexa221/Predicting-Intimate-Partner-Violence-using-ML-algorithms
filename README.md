@@ -30,7 +30,7 @@ For constructing the proposed model, experiments were conducted with a total of 
 # Hi, I'm Alexander Takele Mengesha! 👋
 
 
-## Author
+## Authors Github
 
 - [Github](https://www.github.com/alexa221)
 
