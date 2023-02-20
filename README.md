@@ -34,7 +34,7 @@ For constructing the proposed model, experiments were conducted with a total of 
 
 - [Github](https://www.github.com/alexa221)
 
--[Github](https://www.github.com/TesfamariamAbuhay)
+- [Github](https://www.github.com/TesfamariamAbuhay)
 
 - [Linkedin](https://www.linkedin.com/in/alextakele/)
 
