@@ -27,7 +27,7 @@ For constructing the proposed model, experiments were conducted with a total of 
 - [@Tesfamariam Mulugeta Abuhay](https://www.github.com/TesfamariamAbuhay)
   
 
-# Hi, I'm Alexander Takele Mengesha! 👋
+# Hi, We are authors of this project! 👋
 
 
 ## Authors Github
