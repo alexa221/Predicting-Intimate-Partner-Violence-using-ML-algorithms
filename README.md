@@ -56,9 +56,6 @@ Install Anaconda 2020 for Python3 and open jupiter Notebook
 •    Install catboost for model building: ---pip install catboost 
 •    Install imblearn for class balancing: ---pip install imblearn
 
-•	Install catboost for model building: ---pip install catboost
-•	Install imblearn for class balancing: ---pip install imblearn
-
 ```
     
 ## Optimizations/ parameter tuning
