@@ -24,7 +24,7 @@ For constructing the proposed model, experiments were conducted with a total of 
 
 - [@Alexander Takele Mengesha](https://www.github.com/alexa221)
   
-- [@Tesfamariam Mulugeta Abuhay](https://www.github.com/tesfamariam.m.abuhay@gmail.com)
+- [@Tesfamariam Mulugeta Abuhay](https://www.github.com/TesfamariamAbuhay)
   
 
 # Hi, I'm Alexander Takele Mengesha! 👋
@@ -33,7 +33,9 @@ For constructing the proposed model, experiments were conducted with a total of 
 ## Author
 
 - [Github](https://www.github.com/alexa221)
--[Github](https://www.github.com/tesfamariam.m.abuhay@gmail.com)
+
+-[Github](https://www.github.com/TesfamariamAbuhay)
+
 - [Linkedin](https://www.linkedin.com/in/alextakele/)
 
   
