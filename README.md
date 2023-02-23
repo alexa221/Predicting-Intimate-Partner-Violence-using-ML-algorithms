@@ -71,8 +71,18 @@ As datascientist, we have tuned hyperparameters of the ML model. Hyperparameter 
 ##### 4.  Select the cross-validation approach
 
 ##### 5.  Evaluate the model using the evaluation metric
-## Train-Test Spli 
+
+## Train-Test Split 
 Training set (80%), and a Testng set(20%).
+A. 80% for training set used to  train the model
+  
+B. 20% for testing set used to evaluate the model performance. it only used once a model is completely trained using traind and validationset
+
+## Model Evaluation
+
+In this ***Machine Learning process***, evaluate and compare ***model performance, Visualize and communicate results***.Model evaluation is the most important part of the machine learning process from a ***Data scientist*** perspective
+
+
 ## Deployment
 
  1. desingned protype using selected features 
