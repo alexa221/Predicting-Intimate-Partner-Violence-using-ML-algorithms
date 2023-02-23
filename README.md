@@ -73,10 +73,10 @@ As datascientist, we have tuned hyperparameters of the ML model. Hyperparameter 
 ##### 5.  Evaluate the model using the evaluation metric
 
 ## Train-Test Split 
-Training set (80%), and a Testng set(20%).
-A. 80% for training set used to  train the model
+we split the dataset
+A. 80% for training set used to  train the model.
   
-B. 20% for testing set used to evaluate the model performance. it only used once a model is completely trained using traind and validationset
+B. 20% for testing set used to evaluate the model performance. it only used once a model is completely trained using traind and validationset.
 
 ## Model Evaluation
 
