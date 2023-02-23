@@ -74,6 +74,7 @@ As datascientist, we have tuned hyperparameters of the ML model. Hyperparameter 
 
 ## Train-Test Split 
 we split the dataset
+
 A. 80% for training set used to  train the model.
   
 B. 20% for testing set used to evaluate the model performance. it only used once a model is completely trained using traind and validationset.
