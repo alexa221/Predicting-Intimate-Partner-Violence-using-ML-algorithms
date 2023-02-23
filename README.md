@@ -71,6 +71,8 @@ As datascientist, we have tuned hyperparameters of the ML model. Hyperparameter 
 ##### 4.  Select the cross-validation approach
 
 ##### 5.  Evaluate the model using the evaluation metric
+## Train-Test Spli 
+Training set (80%), and a Testng set(20%).
 ## Deployment
 
  1. desingned protype using selected features 
